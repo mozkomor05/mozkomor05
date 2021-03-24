@@ -4,6 +4,7 @@
 - 👀 I’m interested in physics, math, science and computer science.
 - 🌱 I’m currently learning a lot of things. Nothing long-term, rather short things that I come across.
 - 💻 I work for https://wpdistro.cz and https://autocrm.cz.
+- 👨‍🎓
 
 # Projects
 
