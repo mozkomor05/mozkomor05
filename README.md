@@ -1,3 +1,5 @@
+# Briefly about me
+
 - 👋 Hi, I’m @mozkomor05. Call me David :)
 - 👀 I’m interested in physics, math, science and computer science.
 - 🌱 I’m currently learning a lot of things. Nothing long-term, rather short things that I come across.
